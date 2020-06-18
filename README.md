@@ -1,7 +1,7 @@
 ## Park Heon Seok
 
 - [My github profile](https://github.com/HeonseokPark/)
-- Chungkang College of Cultural Industries 
+- Chungkang College of Cultural Industries Student
 - Game Client Programmer
 
 ### Markdown
